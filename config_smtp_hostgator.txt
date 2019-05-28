@@ -1,0 +1,7 @@
+1. create email in Hostgator https://gator4221.hostgator.com:2083/cpsess0981696613/frontend/hostgator/mail/pops.html
+2. Collect SMTP information by clicking “Set up mail client”
+3. Download phpmailer
+4. Test smtp connection by :  PHPMailer-master/examples/smtp_check.php
+5.  create email.php file and config according to  F:\xampp\htdocs\ticketing\PHPMailer-master\examples\smpt.phps.
+6. Finally check inbox. 
+========================= Good Luck ===============
